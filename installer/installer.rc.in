@@ -1,0 +1,7 @@
+// Generated from installer.rc.in by CMake. Do not edit the generated copy.
+
+101 RCDATA "@PLUGIN_DLL_PATH@"
+102 RCDATA "@LOCALE_INI_PATH@"
+
+// RT_MANIFEST (24) -> request administrator elevation
+1 24 "@MANIFEST_PATH@"
