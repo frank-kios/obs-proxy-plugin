@@ -166,3 +166,7 @@ so OBS startup isn't blocked; the download itself is never tunneled.
 - The proxy list is fetched over HTTPS via WinHTTP and refreshed on the
   configured interval.
 - API hooking can trip anti-cheat / AV heuristics on some systems.
+
+## License
+
+GPL-2.0. See [LICENSE](LICENSE). This plugin links OBS Studio (`libobs`), which is also GPL-2.0. MinHook is included under its BSD-2-Clause license.
